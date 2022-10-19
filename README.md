@@ -1,5 +1,7 @@
 # postgres_cn
-PostgreSQL docker image with locale zh_CN.UTF-8
+PostgreSQL docker image with system locale zh_CN.UTF-8 and database locale zh-Hans-x-icu
+
+
 
 ## how to run
 See these pages for deploying details
